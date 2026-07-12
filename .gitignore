@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+.env
+.env.*
+*.zip
+backup*/
+*_backup*/
+99_临时资料/
+internal/
+private/
